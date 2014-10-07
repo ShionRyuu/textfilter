@@ -172,4 +172,3 @@ if __name__ == "__main__":
     print gfw.filter("售假人民币 我操操操","*")
     print gfw.filter("传世私服 我操操操","*")
     print time.time() - t
-
